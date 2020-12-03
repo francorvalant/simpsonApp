@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:minHeight="?attr/actionBarSize"
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-    android:background="@color/purple_200"
+    android:background="@color/amarilloSimpson"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     app:popupTheme="@style/Theme.AppCompat.Light"
     android:id="@+id/toolbar"
