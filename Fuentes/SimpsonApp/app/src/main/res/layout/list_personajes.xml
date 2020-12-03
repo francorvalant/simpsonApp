@@ -7,16 +7,24 @@
 
     <ImageView
         android:layout_weight="1"
+        android:id="@+id/imgPersonaje"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="100sp">
     </ImageView>
 
     <TextView
         android:layout_weight="1"
+        android:id="@+id/character"
         android:text="Personaje"
-        android:textSize="40sp"
+        android:textSize="31sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+    </TextView>
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/quote"
+        android:layout_width="match_parent"
+        android:layout_height="100sp">
     </TextView>
 
 </LinearLayout>
