@@ -20,7 +20,7 @@
             android:gravity="center"
             android:text="Cantidad de Consejos"
             android:textColor="@color/white"
-            android:textSize="20sp"
+            android:textSize="21sp"
             android:layout_marginLeft="25sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"></TextView>
